@@ -18,5 +18,5 @@ I'm constantly working on new projects and expanding my skills. Feel free to che
 🔭 What I'm Looking For
 Currently seeking opportunities to collaborate with other developers, contribute to open source projects, and gain more experience in the field of web development. If you have any suggestions or opportunities, please don't hesitate to reach out to me!
 
-[comment]: <> ([![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucadol&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucadol&layout=compact)](https://github.com/anuraghazra/github-readme-stats))
+<!-- ([![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucadol&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucadol&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
