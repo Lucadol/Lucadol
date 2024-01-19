@@ -10,9 +10,9 @@ I've spent the past few months self-learning web development, focusing on HTML, 
 ⚡ My GitHub Projects
 Here are some of my projects on GitHub:
 
-[Project 6]: Developed a React project called "Kasa" resembling Airbnb.
-[Project 7]: Created a backend using Node.js, Express, and MongoDB for a project named "Les Vieux Grimoires."
-[Project 8]: Designed my portfolio using React, Tailwind, and Three.js.
+[Project 6]: Developed a React project called "Kasa" resembling Airbnb.<br>
+[Project 7]: Created a backend using Node.js, Express, and MongoDB for a project named "Les Vieux Grimoires."<br>
+[Project 8]: Designed my portfolio using React, Tailwind, and Three.js.<br>
 I'm constantly working on new projects and expanding my skills. Feel free to check back regularly for the latest updates!
 
 🔭 What I'm Looking For
